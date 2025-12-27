@@ -17,14 +17,6 @@
       "status": "active"
     },
     {
-      "client_id": "12I4822K-7L0Q-4S35-83P5-R300U45Z4653",
-      "username": "xkjhstnyaareix",
-      "discord_id": "1280529967402319908",
-      "discord_name": "fakepasha",
-      "timestamp": "2025-12-27T20:45:53.659430",
-      "status": "active"
-    },
-    {
       "client_id": "66H35H1K-966Q-48Q3-P728-W9U12799X2Y2",
       "username": "",
       "discord_id": "1051564788452446290",
@@ -38,6 +30,14 @@
       "discord_id": "1309669869029163019",
       "discord_name": "ezomeprazol",
       "timestamp": "2025-12-27T20:50:14.387393",
+      "status": "active"
+    },
+    {
+      "client_id": "12I4822K-7L0Q-4S35-83P5-R300U45Z4653",
+      "username": "123",
+      "discord_id": "1280529967402319908",
+      "discord_name": "fakepasha",
+      "timestamp": "2025-12-27T21:19:38.963114",
       "status": "active"
     }
   ]
