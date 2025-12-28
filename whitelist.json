@@ -121,14 +121,6 @@
       "status": "active"
     },
     {
-      "client_id": "Z2U75151-332T-48T3-N501-6L1O7MH35H01",
-      "username": "dgjpazpvqrtn882",
-      "discord_id": "597114561174306827",
-      "discord_name": "matixs.",
-      "timestamp": "2025-12-27T23:21:52.925235",
-      "status": "active"
-    },
-    {
       "client_id": "4W617928-4V60-4537-9SU4-NN966355K662",
       "username": "",
       "discord_id": "1011709526816346222",
@@ -206,6 +198,14 @@
       "discord_id": "1431020261095899157",
       "discord_name": "afkseit2019",
       "timestamp": "2025-12-28T13:18:16.905087",
+      "status": "active"
+    },
+    {
+      "client_id": "Z2U75151-332T-48T3-N501-6L1O7MH35H01",
+      "username": "SqRknNxkjaY17",
+      "discord_id": "597114561174306827",
+      "discord_name": "matixs.",
+      "timestamp": "2025-12-28T13:57:42.262183",
       "status": "active"
     }
   ]
