@@ -217,14 +217,6 @@
       "status": "active"
     },
     {
-      "client_id": "73VW001V-9U88-4356-OQ58-KHKHG7D575ZY",
-      "username": "",
-      "discord_id": "1305899920397439093",
-      "discord_name": "developer.phil",
-      "timestamp": "2025-12-29T10:34:57.591937",
-      "status": "active"
-    },
-    {
       "client_id": "Z713T77W-3789-4S04-N730-O66LMG5G4E6B",
       "username": "",
       "discord_id": "576789542238027786",
@@ -374,6 +366,14 @@
       "discord_id": "1065953034892484710",
       "discord_name": "glacio_tv",
       "timestamp": "2025-12-30T17:17:49.351494",
+      "status": "active"
+    },
+    {
+      "client_id": "W04VWUP3-49LJ-40I6-GE1B-0Z69AA2Y27T6",
+      "username": "",
+      "discord_id": "1305899920397439093",
+      "discord_name": "developer.phil",
+      "timestamp": "2025-12-30T17:39:15.917911",
       "status": "active"
     }
   ]
