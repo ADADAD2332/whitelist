@@ -265,14 +265,6 @@
       "status": "active"
     },
     {
-      "client_id": "2YU0T2SQ-5M30-446L-86J0-36H4D563B3B6",
-      "username": "ibxvn",
-      "discord_id": "1392239904980734104",
-      "discord_name": "fxrkan2sigma",
-      "timestamp": "2026-01-03T15:43:30.283614",
-      "status": "active"
-    },
-    {
       "client_id": "48z3ytp6-p339-44l9-j3j0-k8404037593g",
       "username": "bafhgiqbswfq1233",
       "discord_id": "1438065061850779658",
@@ -342,6 +334,14 @@
       "discord_id": "931177213380943922",
       "discord_name": "7c8i",
       "timestamp": "2026-01-04T06:21:14.348641",
+      "status": "active"
+    },
+    {
+      "client_id": "ZTVSNOL6-245K-494G-D7D7-642235AXW294",
+      "username": "yljsfobk",
+      "discord_id": "1392239904980734104",
+      "discord_name": "fxrkan2sigma",
+      "timestamp": "2026-01-04T14:45:18.934556",
       "status": "active"
     }
   ]
